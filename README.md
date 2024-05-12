@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{SID12g}?pet-id=577101130196600471" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/{SID12g}"/>
 </a>
 
 [About Me](https://sid12g.dev)
