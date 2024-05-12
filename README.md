@@ -2,9 +2,9 @@
   <img src="https://render.gitanimals.org/farms/{SID12g}"/>
 </a>
 
-[About Me](https://sid12g.dev)
-<br>
-[Blog](https://post.sid12g.dev)
-<br>
-[Email](mailto:ad@sid12g.dev)
+<div style="display:flex">
 
+[About Me](https://sid12g.dev)
+[Blog](https://post.sid12g.dev)
+[Email](mailto:ad@sid12g.dev)
+</div>
