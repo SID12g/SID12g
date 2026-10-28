@@ -5,5 +5,5 @@
   <br>
   <a href="https://sid12g.dev">sid12g.dev</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sid12g">Linkedin</a>
+  <a href="https://linkedin.com/in/sid12g">LinkedIn</a>
 </div>
